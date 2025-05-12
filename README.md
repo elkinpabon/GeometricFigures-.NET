@@ -1,6 +1,4 @@
-# GeometricToolkit .NET
-
-**GeometricToolkit .NET** es una aplicación de escritorio desarrollada en C# utilizando Windows Forms (.NET Framework) permitiendo calcular de manera rápida y precisa el área y perímetro de diversas figuras geométricas.
+Aplicación de escritorio desarrollada en C# utilizando Windows Forms (.NET Framework) permitiendo calcular de manera rápida y precisa el área y perímetro de diversas figuras geométricas.
 
 ## 🚀 Características
 
