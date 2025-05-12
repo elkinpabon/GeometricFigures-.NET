@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\figurasgeometricas\\figurasgeometricas\\frmtrianguloheron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmtrianguloheron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmtrianguloheron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmtrianguloheron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmpoligonosrectangulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmpoligonosrectangulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmtrianguloheron.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmtrianguloheron.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmcirculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmovalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmpoligonosrectangulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmpoligonosrectangulares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\figurasgeometricas\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB4F06A9-7912-4A09-BF56-19897104F80C}|FigurasGeometricas\\FigurasGeometricas.csproj|solutionrelative:figurasgeometricas\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\Form1.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\Form1.cs",
+              "RelativeToolTip": "FigurasGeometricas\\Form1.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAewJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T02:12:10.522Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmTrianguloHeron.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrianguloHeron.Designer.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmTrianguloHeron.Designer.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrianguloHeron.Designer.cs",
+              "RelativeToolTip": "FigurasGeometricas\\FrmTrianguloHeron.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T13:23:31.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTrianguloHeron.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrianguloHeron.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmTrianguloHeron.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrianguloHeron.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricas\\FrmTrianguloHeron.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:46:40.738Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmTrianguloHeron.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrianguloHeron.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmTrianguloHeron.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrianguloHeron.cs",
+              "RelativeToolTip": "FigurasGeometricas\\FrmTrianguloHeron.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwEUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T12:27:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmCirculo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmCirculo.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmCirculo.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmCirculo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricas\\FrmCirculo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:21:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPoligonosRectangulares.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmPoligonosRectangulares.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmPoligonosRectangulares.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmPoligonosRectangulares.cs",
+              "RelativeToolTip": "FigurasGeometricas\\FrmPoligonosRectangulares.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:05:40.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPoligonosRectangulares.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmPoligonosRectangulares.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmPoligonosRectangulares.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmPoligonosRectangulares.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricas\\FrmPoligonosRectangulares.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T04:04:39.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmOvalo.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmOvalo.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmOvalo.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmOvalo.cs",
+              "RelativeToolTip": "FigurasGeometricas\\FrmOvalo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:56:40.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\Form1.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FigurasGeometricas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:55:02.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmTrapecio.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "FigurasGeometricas\\FrmTrapecio.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\FigurasGeometricas\\FigurasGeometricas\\FrmTrapecio.cs",
+              "RelativeToolTip": "FigurasGeometricas\\FrmTrapecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T03:46:55.678Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
